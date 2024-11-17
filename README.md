@@ -160,6 +160,8 @@ struct Student people[29];
 <img src="https://github.com/user-attachments/assets/4fd2f80e-0d85-45a0-8037-9c0f0a3fa224" width="200px">
 </div> 
 
+Давайте посмотрим видосик и морально отдохнем от всего этого ****** https://www.youtube.com/watch?v=ZASCPkwAxWc
+
 -------
 
 ## Реализация
